@@ -39,3 +39,4 @@ const questions = [
 },
 
 ]
+//finish the rest to where you do a series of const and functions to where it prompts the user for a different variaty of things
