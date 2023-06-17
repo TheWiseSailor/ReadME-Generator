@@ -1,3 +1,6 @@
+const inquirer = require ('inquirer');
+const generateMarkdown =require ('./generateMarkDown');
+const fs = require('fs');
 const questions = [
   {
       type:'input',
@@ -39,4 +42,4 @@ const questions = [
 },
 
 ]
-//finish the rest to where you do a series of const and functions to where it prompts the user for a different variaty of things
+
