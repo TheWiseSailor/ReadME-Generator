@@ -41,5 +41,5 @@ const questions = [
 
 },
 
-]
 
+];
