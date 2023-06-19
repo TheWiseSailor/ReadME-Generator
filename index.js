@@ -43,3 +43,7 @@ const questions = [
 
 
 ];
+
+//this is going to be where the  i make a set of functions that 
+//prompts the user with questions, functions for the application, \
+//and finally just an init(); to call it and start the function
