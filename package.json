@@ -1,7 +1,7 @@
 {
-  "name": "generator3",
+  "name": "readme-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "test    ## Table of Contents     [Installation Guide](#installation)  <br>    [Usage](#usage) <br>    [License ](#license)  <br>",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
