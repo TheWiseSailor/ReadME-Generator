@@ -66,7 +66,7 @@ function generateMarkdown(data) {
 
   ## Contact Information 
   ${data.email}  
- [${data.userName}](https://github.com/${data.userName}/)  
+  [${data.github}](https://github.com/${data.github}/)
 
  ## License
 
