@@ -47,7 +47,7 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   console.log(data);
   return `
-  # Project: ${data.Name} 
+  # Project: ${data.title} 
   ## Project Description 
   ${data.description} 
   ## Table of Contents 
