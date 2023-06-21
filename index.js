@@ -47,3 +47,21 @@ const questions = [
 //this is going to be where the  i make a set of functions that 
 //prompts the user with questions, functions for the application, \
 //and finally just an init(); to call it and start the function
+// Function to prompt the user with questions
+function promptUser() {
+  return inquirer.prompt(questions);
+}
+function writeToFile(fileName, data) {
+  fs.writeFile(fileName, data, (err) =>
+    err ? console.error(err) : console.log('README.md generated successfully!')
+  );
+}
+function init() {
+  promptUser()
+    .then((data) => {
+      const markdown = generateMarkdown(data);
+      writeToFile('README.md', markdown);
+    })
+    .catch((error) => console.error(error));
+}
+init();
