@@ -6,7 +6,6 @@
    [Installation Guide](#installation)  <br>
    [Usage](#usage) <br>
    [License ](#license)  <br>
-  [Tests](#tests)  <br>
    [Contact Information](#questions)  <br>
 
   ## Installation Guide 
@@ -20,7 +19,7 @@
   rudasilljay@gmail.com  
  https://github.com/TheWiseSailor/
 
- ## 
+ ## License
 
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
   

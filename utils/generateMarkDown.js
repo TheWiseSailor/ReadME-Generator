@@ -54,7 +54,7 @@ function generateMarkdown(data) {
    [Installation Guide](#installation)  <br>
    [Usage](#usage) <br>
    [License ](#license)  <br>
-  [Tests](#tests)  <br>
+
    [Contact Information](#questions)  <br>
 
   ## Installation Guide 
@@ -68,7 +68,7 @@ function generateMarkdown(data) {
   ${data.email}  
  [${data.userName}](https://github.com/${data.userName}/)  
 
- ## 
+ ## License
 
  ${renderLicenseBadge(data.license)} 
   `;
