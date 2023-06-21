@@ -1,4 +1,4 @@
-User
+
 //${renderLicenseSection(data.license)} <br> 
 //${renderLicenseLink(data.license)} <br> 
 // those are just here due to aesthetic reasons
@@ -52,25 +52,17 @@ function generateMarkdown(data) {
   ${data.description} 
   ## Table of Contents 
    [Installation Guide](#installation)  <br>
-   [Usage Instructions](#usage) <br>
+   [Usage](#usage) <br>
    [License ](#license)  <br>
-   [Contributing Guidelines](#contributing)  <br>
   [Tests](#tests)  <br>
    [Contact Information](#questions)  <br>
 
   ## Installation Guide 
   ${data.installation}
 
-  ## Usage Instructions 
+  ## Usage 
   ${data.usage} <br>
 
-
-
-
-
-  ## Tests
-  <br>
-  ${data.tests}
 
   ## Contact Information 
   ${data.email}  
