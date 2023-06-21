@@ -13,6 +13,11 @@
 
   ## Usage 
   The Node.js Challenge focuses on Creating a command-line program in Node.js that generates detailed ReadME files for projects. <br>
+## Recording Video
+[Untitled_ Jun 21, 2023 12_57 PM.webm](https://github.com/TheWiseSailor/ReadME-Generator/assets/68026214/f2ef624b-cb42-4846-813d-85c49dd1aaa5)
+
+## Recording Location
+https://drive.google.com/file/d/1kfuCnsg2OhIjS8hvw3eX15K6VVxUbv8n/view 
 
 
   ## Contact Information 
